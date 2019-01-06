@@ -1,5 +1,7 @@
 {
   "name": "pushnot",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
